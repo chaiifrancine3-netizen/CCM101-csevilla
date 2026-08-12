@@ -4,7 +4,7 @@
 
 ## Personal Information
 
-**Name:** Chanrvin DM D. Sevilla
+**Name:** Charvin DM D. Sevilla
 
 **Course:** Bachelor of Science in Information Technology
 
