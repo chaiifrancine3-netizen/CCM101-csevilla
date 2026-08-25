@@ -27,14 +27,16 @@ We explored compute, storage, networking, and operating system resources before 
 
 | Command | Purpose |
 |---|---|
-| `cat /etc/os-release` | Identify OS |
-| `uname -r` | Check kernel |
-| `lscpu` | Check CPU |
-| `free -h` | Check RAM |
-| `df -h` | Check storage |
-| `hostname` | Check hostname |
-| `hostname -I` | Check IP |
-| `ip addr` | Check network |
+| `lsb_release -a` | Identify Operating System |
+| `uname -r` | Check Kernel Version |
+| `lscpu` | Check CPU Model and Number of CPU Cores |
+| `lscpu \| grep -E 'Model name\|CPU\(s\)'` | Another specific method for checking CPU Model and Number of CPU Cores |
+| `free -h` | Check Total RAM |
+| `df -h` | Check Disk Capacity |
+| `findmnt` | Check Mounted File Systems |
+| `hostname` | Check Hostname |
+| `hostname -I` | Check IP Address |
+| `ip addr` | Another method for checking IP Address |
 
 ## 🧠 Skills Learned
 
@@ -46,7 +48,7 @@ We explored compute, storage, networking, and operating system resources before 
 
 ## ⚠️ Challenges Encountered
 
-[Write about the problems you personally encountered.]
+The problem I encountered is searching for the commands to be used in this activity and time on Killerkoda.
 
 ## 🏆 Mission Status
 
