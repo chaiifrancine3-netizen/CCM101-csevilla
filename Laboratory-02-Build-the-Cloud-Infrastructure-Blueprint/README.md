@@ -1,13 +1,53 @@
-> 🚀 Mission: Investigate, analyze, and design a cloud infrastructure.
+# ☁️ Laboratory 02
+# Build the Cloud Infrastructure Blueprint
 
-This laboratory activity explores the fundamental components of cloud infrastructure through a Linux-based cloud environment.
+## 🎯 Mission Overview
 
-## 🎯 Mission Objectives
+In this laboratory activity, we investigated a Linux-based cloud environment and identified its major infrastructure components.
 
-- 🔍 Investigate a cloud-based Linux server
-- 💻 Identify compute resources
-- 💾 Analyze storage resources
-- 🌐 Examine networking
-- ☁️ Compare AWS, Azure, and Google Cloud
-- 🏗️ Design a basic cloud architecture
-- 📚 Document the entire investigation
+We explored compute, storage, networking, and operating system resources before comparing AWS, Microsoft Azure, and Google Cloud.
+
+## 🧭 Objectives
+
+- 🔍 Investigate a Linux cloud server
+- 🧠 Identify CPU and memory resources
+- 💾 Analyze storage
+- 🌐 Investigate networking
+- ☁️ Compare cloud providers
+- 🏗️ Design a cloud infrastructure blueprint
+
+## 🛠️ Tools Used
+
+- GitHub
+- KillerCoda
+- Linux Terminal
+- Draw.io / PowerPoint / Figma
+
+## 🐧 Linux Commands Used
+
+| Command | Purpose |
+|---|---|
+| `cat /etc/os-release` | Identify OS |
+| `uname -r` | Check kernel |
+| `lscpu` | Check CPU |
+| `free -h` | Check RAM |
+| `df -h` | Check storage |
+| `hostname` | Check hostname |
+| `hostname -I` | Check IP |
+| `ip addr` | Check network |
+
+## 🧠 Skills Learned
+
+- Linux system investigation
+- Cloud infrastructure analysis
+- Cloud provider comparison
+- Technical documentation
+- GitHub repository management
+
+## ⚠️ Challenges Encountered
+
+[Write about the problems you personally encountered.]
+
+## 🏆 Mission Status
+
+**COMPLETED — Cloud Infrastructure Blueprint Created**
