@@ -34,6 +34,16 @@ The root filesystem (`/`) has approximately **13 GiB of available space**.
 
 ### Primary Network Interface
 
+## 🧪 Investigation Summary
+
+The KillerCoda environment is a virtualized Linux server running **Ubuntu 24.04 LTS (Noble)**. During my investigation, I found that it has **1 vCPU**, around **1.9 GiB of RAM**, and a **19 GiB root disk**.
+
+The system is running with the **KVM hypervisor** and has different mounted filesystems used for the operating system, boot files, temporary storage, and shared memory.
+
+For networking, the main interface is `enp1s0`, which has the private IP address `172.30.1.2/24`. I also found a Docker bridge with the address `172.17.0.1/16`, which is used for container networking.
+
+This investigation helped me become more familiar with using Linux commands to check a server's resources and configuration. I learned how to identify the operating system, CPU, RAM, disk storage, mounted filesystems, hostname, and IP address. It also helped me understand the basic components that make up a cloud server and why checking these details is important before deploying infrastructure.
+
 ```text
 Interface: enp1s0
 IP Address: 172.30.1.2/24
