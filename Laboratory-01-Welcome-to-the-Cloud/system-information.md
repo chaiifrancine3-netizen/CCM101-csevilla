@@ -1,4 +1,3 @@
-````markdown
 # 🖥️ System Information
 
 This document contains the system information collected from the **KillerCoda Ubuntu Linux environment** using basic Linux commands.
@@ -11,7 +10,6 @@ This document contains the system information collected from the **KillerCoda Ub
 
 ```bash
 lsb_release -a
-````
 
 ### Output
 
