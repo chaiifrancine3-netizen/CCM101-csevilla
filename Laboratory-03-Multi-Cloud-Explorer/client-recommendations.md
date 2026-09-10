@@ -74,4 +74,3 @@ I recommend AWS for the global e-commerce company because it provides a broad se
 | AI / Machine Learning | Google Cloud | Google Cloud provides strong AI, machine learning, data, and analytics services. |
 | Kubernetes Deployment | Google Cloud | Google Kubernetes Engine provides a managed Kubernetes environment. |
 | Global Web Application | AWS | AWS provides global infrastructure and services for scalable and highly available web applications. |
-```
