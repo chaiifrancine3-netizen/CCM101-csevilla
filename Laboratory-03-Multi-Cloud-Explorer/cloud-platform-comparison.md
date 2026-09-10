@@ -59,4 +59,3 @@ I would personally choose AWS because it provides a wide range of services and i
 | Kubernetes Deployment | Google Cloud | Managed Kubernetes through GKE. |
 | Global Web Application | AWS | Global infrastructure and scalable web services. |
 ```
-
