@@ -58,4 +58,3 @@ I would personally choose AWS because it provides a wide range of services and i
 | AI / Machine Learning | Google Cloud | Strong AI, ML, data, and analytics capabilities. |
 | Kubernetes Deployment | Google Cloud | Managed Kubernetes through GKE. |
 | Global Web Application | AWS | Global infrastructure and scalable web services. |
-```
