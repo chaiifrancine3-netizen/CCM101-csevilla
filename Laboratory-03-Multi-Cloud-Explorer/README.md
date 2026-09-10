@@ -143,13 +143,13 @@ The server could be hosted using:
 
 These services provide virtual computing, storage, and networking resources that can be used to host Linux workloads.
 
----
+
 
 ## 🔷 Screenshot Evidence
 
 The Linux terminal investigation screenshot is stored in: Screenshots Folder.
 
-```
+---
 
 ### 🔵 My brief results
 
