@@ -1,11 +1,3 @@
-# 🟢 Mission 4 — The Cloud-Native Engineer
-
-> 🌿 **CCM101 – Cloud Computing**  
-> **Laboratory Activity 4**  
-> **Cloud-Native Engineering with Docker**
-
----
-
 ## 🟩 Mission Overview
 
 In this mission, I learned how containerization works and how it differs from traditional Virtual Machines (VMs). I used the KillerCoda Docker Playground to practice basic Docker commands and deploy an Nginx web server inside a container.
