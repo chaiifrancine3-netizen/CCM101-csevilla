@@ -175,6 +175,3 @@ Through the hands-on activities in KillerCoda, I was able to understand these Do
 **Laboratory Activity 4**
 
 > 🟩 *Learn. Build. Deploy. Manage.*
-
-```
-
