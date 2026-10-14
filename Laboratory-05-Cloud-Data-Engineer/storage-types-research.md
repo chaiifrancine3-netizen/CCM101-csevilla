@@ -16,12 +16,12 @@
 
 For your photo-sharing application, **Object Storage** is the best choice because it is designed to handle millions of unstructured files (images) without the performance bottlenecks of a file hierarchy or the management overhead of block volumes.
 
-Each photo is stored as an independent object with its own metadata (e.g., upload date, content type), making it easy to retrieve, replicate, and serve via a URL. Object storage also scales horizontally almost infinitely and offers built-in durability, versioning, and lifecycle policies—perfect for user-uploaded content that will grow rapidly.
+Each photo is stored as an independent object with its own metadata (such as upload date, content type), making it easy to retrieve, replicate, and serve via a URL. Object storage also scales horizontally almost infinitely and offers built-in durability, versioning, and lifecycle policies perfect for user-uploaded content that will grow rapidly.
 
 **Why Object Storage wins 🌷**
 
 - ✅ Massive scalability for millions of images
 - ✅ Metadata per object for smart retrieval & management
 - ✅ Built-in versioning and lifecycle rules
-- ✅ Direct HTTP/URL access — ideal for web and mobile
+- ✅ Direct HTTP/URL access ideal for web and mobile
 - ✅ High durability (often 99.999999999%)
