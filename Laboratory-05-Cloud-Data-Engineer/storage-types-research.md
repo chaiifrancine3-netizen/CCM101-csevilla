@@ -1,5 +1,11 @@
 # 🌸 Research: Types of Cloud Storage 🌸
 
+![theme](https://img.shields.io/badge/theme-pink-ff69b4?style=for-the-badge&labelColor=ffe4ec)
+![cloud](https://img.shields.io/badge/cloud-storage-ff85b3?style=for-the-badge&labelColor=ffe4ec)
+![status](https://img.shields.io/badge/status-researched-ffb6c1?style=for-the-badge&labelColor=ffe4ec)
+
+---
+
 ## 📊 Comparison Table
 
 | Storage Type | Description (How it stores data) | Primary Use Case | Cloud Provider Example |
