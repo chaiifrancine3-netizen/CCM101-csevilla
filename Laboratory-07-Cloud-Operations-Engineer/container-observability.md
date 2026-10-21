@@ -10,3 +10,16 @@ The `client-website` Nginx container was deployed on port 8080 and received traf
 
 ```bash
 docker logs client-website
+
+---
+
+## Real-Time Container Metrics
+
+Command used: `docker stats`
+
+| Metric | Value |
+|--------|-------|
+| Memory Usage | 2.746MiB |
+| CPU % | 0.00% |
+
+At the time of the screenshot, the `client-website` container was consuming **2.746MiB** of memory (0.14% of its 1.859GiB limit) and **0.00%** CPU.
