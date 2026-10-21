@@ -1,5 +1,7 @@
 # Container Observability
 
+---
+
 ## Application Logging with Nginx
 
 ### Overview
@@ -23,3 +25,4 @@ Command used: `docker stats`
 | CPU % | 0.00% |
 
 At the time of the screenshot, the `client-website` container was consuming **2.746MiB** of memory (0.14% of its 1.859GiB limit) and **0.00%** CPU.
+---
