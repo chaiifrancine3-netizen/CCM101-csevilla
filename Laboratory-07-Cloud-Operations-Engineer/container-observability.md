@@ -1,7 +1,5 @@
 # Container Observability
 
----
-
 ## Application Logging with Nginx
 
 ### Overview
@@ -12,6 +10,7 @@ The `client-website` Nginx container was deployed on port 8080 and received traf
 
 ```bash
 docker logs client-website
+```
 
 ---
 
