@@ -50,4 +50,4 @@ This laboratory activity focuses on Bash scripting, automated backups, Linux fil
 
 ### Mission Status
 
-**Completed** – Successfully created an automated backup script and configured a daily Cron job.
+**Completed** – Successfully created an automated backup script and configured a daily Cron job. 
