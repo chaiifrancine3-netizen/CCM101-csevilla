@@ -50,5 +50,5 @@ This laboratory activity focuses on securing a Linux server using the UFW firewa
 
 ### Mission Status
 
-**Completed** – Successfully deployed a web application and configured UFW firewall rules to secure the server.
+**Completed** – Successfully deployed a web application and configured UFW firewall rules to secure the server. 
 
